@@ -14,6 +14,7 @@ This Streamlit app creates a simple embedding store using FAISS to insert docume
 ```
 git clone https://github.com/paridhi3/AI-POC.git
 cd AI-POC
+```
 
 2️⃣ **Create a virtual environment:**
 ```
