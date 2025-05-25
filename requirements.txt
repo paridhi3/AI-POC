@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+faiss-cpu
+langchain
+langchain-huggingface
+langchain-community>=0.2.0
+pyngrok
+numpy

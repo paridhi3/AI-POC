@@ -1,0 +1,194 @@
+[
+  {
+    "question": "What is the Genpact Third-Party Code of Conduct?",
+    "answer": "It is a set of ethical and legal guidelines for third parties working with or on behalf of Genpact."
+  },
+  {
+    "question": "Who does the Code apply to?",
+    "answer": "It applies to all service providers, suppliers, vendors, contractors, agents, consultants, and alliance partners of Genpact."
+  },
+  {
+    "question": "What is Genpact’s expectation regarding legal compliance?",
+    "answer": "Third parties must comply with all applicable laws, rules, and regulations."
+  },
+  {
+    "question": "Can third parties engage in bribery or corruption?",
+    "answer": "No, third parties must not engage in bribery, corruption, or offer anything of value to gain unfair business advantage."
+  },
+  {
+    "question": "What should third parties do if they identify unethical conduct?",
+    "answer": "They should report concerns through their internal resources or directly to Genpact."
+  },
+  {
+    "question": "What is Genpact’s non-retaliation policy?",
+    "answer": "Genpact does not tolerate retaliation against anyone who reports concerns in good faith."
+  },
+  {
+    "question": "What channels can be used to report concerns to Genpact?",
+    "answer": "Email codeofconduct.genpact@genpact.com or use the Ombuds Helpline at https://genpactombuds.ethicspoint.com."
+  },
+  {
+    "question": "What are the consequences of violating the Code?",
+    "answer": "Violations may result in termination of services and other contractual actions."
+  },
+  {
+    "question": "How often is the Code reviewed?",
+    "answer": "The Code is subject to regular review by Genpact."
+  },
+  {
+    "question": "Are third parties responsible for their own subcontractors’ conduct?",
+    "answer": "Yes, they must ensure their subcontractors comply with the Code."
+  },
+  {
+    "question": "Can third parties use Genpact’s name or logo freely?",
+    "answer": "No, they need prior written consent from Genpact."
+  },
+  {
+    "question": "What should third parties do if they detect a data breach?",
+    "answer": "They must report it immediately to infosec@genpact.com."
+  },
+  {
+    "question": "What is considered a conflict of interest?",
+    "answer": "When personal or business interests interfere with Genpact’s interests."
+  },
+  {
+    "question": "What should be done when a conflict of interest arises?",
+    "answer": "Disclose it to Genpact as soon as it’s recognized."
+  },
+  {
+    "question": "Can third parties use Genpact’s proprietary information?",
+    "answer": "Only as directed and with proper authorization."
+  },
+  {
+    "question": "How should third parties handle public communications?",
+    "answer": "They should not speak on behalf of Genpact unless authorized."
+  },
+  {
+    "question": "What are the expectations regarding accurate records?",
+    "answer": "Third parties must keep complete, accurate records and provide them if requested."
+  },
+  {
+    "question": "Are unfair competitive practices allowed?",
+    "answer": "No, third parties must comply with competition laws and avoid unfair practices."
+  },
+  {
+    "question": "What environmental responsibilities do third parties have?",
+    "answer": "They must follow environmental laws, conserve resources, and promote recycling."
+  },
+  {
+    "question": "Are third parties allowed to trade securities using nonpublic Genpact information?",
+    "answer": "No, insider trading is strictly prohibited."
+  },
+  {
+    "question": "What should third parties do when interacting with government entities?",
+    "answer": "Act honestly, comply with requests, and inform Genpact as permitted by law."
+  },
+  {
+    "question": "How should third parties protect data privacy?",
+    "answer": "They must follow data privacy laws and secure data with proper measures."
+  },
+  {
+    "question": "What labor standards are expected?",
+    "answer": "Fair employment, minimum wage compliance, no child or forced labor, and safe working conditions."
+  },
+  {
+    "question": "What forms of discrimination are prohibited?",
+    "answer": "Discrimination based on race, color, ethnicity, religion, sex, sexual orientation, disability, etc."
+  },
+  {
+    "question": "How should third parties promote inclusion?",
+    "answer": "By supporting diversity, equity, and inclusion in hiring and treatment."
+  },
+  {
+    "question": "What types of harassment are banned?",
+    "answer": "Any unwelcome speech or physical conduct, including sexual harassment."
+  },
+  {
+    "question": "How should third parties handle Genpact client instructions?",
+    "answer": "They must respect and comply with all applicable client policies and guidelines."
+  },
+  {
+    "question": "What should be done about suspicious financial transactions?",
+    "answer": "They must be identified and reported as possible money laundering or terrorist financing."
+  },
+  {
+    "question": "What are examples of suspicious signs?",
+    "answer": "Vague partner details, sudden changes in transaction patterns, or unusual requests."
+  },
+  {
+    "question": "Are facilitating payments to government officials allowed?",
+    "answer": "No, unless officially permitted and properly documented."
+  },
+  {
+    "question": "Can Genpact intellectual property be shared externally?",
+    "answer": "No, unless explicitly authorized."
+  },
+  {
+    "question": "How should physical and electronic security be maintained?",
+    "answer": "By implementing administrative, technical, and organizational safeguards."
+  },
+  {
+    "question": "Is tax evasion tolerated?",
+    "answer": "No, Genpact strictly prohibits tax evasion and requires third parties to prevent facilitation of tax evasion."
+  },
+  {
+    "question": "What licenses or permits must third parties have?",
+    "answer": "All necessary licenses or permits relevant to the goods or services they provide."
+  },
+  {
+    "question": "What happens if third parties falsify records?",
+    "answer": "It is a violation of the Code and may lead to termination and other actions."
+  },
+  {
+    "question": "Can third parties promote themselves using Genpact’s resources?",
+    "answer": "No, they must not use Genpact’s resources or name without consent."
+  },
+  {
+    "question": "How should third parties support human rights?",
+    "answer": "By promoting employee well-being, fair labor practices, and avoiding illegal labor practices."
+  },
+  {
+    "question": "What are examples of forced labor practices?",
+    "answer": "Slavery, human trafficking, or any work performed under threat or coercion."
+  },
+  {
+    "question": "What is the role of Genpact’s VP of Sourcing?",
+    "answer": "They can be contacted for questions or concerns about the Code."
+  },
+  {
+    "question": "What is the Ombuds Helpline for?",
+    "answer": "To allow third parties to report ethical concerns or violations confidentially."
+  },
+  {
+    "question": "How does Genpact handle intellectual property rights?",
+    "answer": "Third parties must protect and use Genpact IP only as authorized."
+  },
+  {
+    "question": "How should third parties handle changes in transactions?",
+    "answer": "Unusual or significant changes should be flagged as potential risks."
+  },
+  {
+    "question": "Can third parties use Genpact’s facilities and equipment freely?",
+    "answer": "No, only as directed by Genpact."
+  },
+  {
+    "question": "Are workplace safety standards mandatory?",
+    "answer": "Yes, third parties must maintain a safe working environment."
+  },
+  {
+    "question": "Should third parties cooperate with government investigations?",
+    "answer": "Yes, they must act transparently and inform Genpact where permitted."
+  },
+  {
+    "question": "Can third parties process personal data without Genpact’s permission?",
+    "answer": "No, they must follow Genpact’s documented instructions."
+  },
+  {
+    "question": "What does Genpact expect regarding ethical sourcing?",
+    "answer": "Third parties must avoid unethical practices across their supply chains."
+  },
+  {
+    "question": "How should third parties handle Genpact’s brand materials?",
+    "answer": "Only use with prior written consent from Genpact."
+  }
+]
