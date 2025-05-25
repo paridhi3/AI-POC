@@ -1,5 +1,5 @@
 # Simple Embedding Search App
-[Link to App](https://paridhi3-ai-poc-app-2c7mfi.streamlit.app/)
+[Link to App](https://paridhi3-ai-poc-app-2c7mfi.streamlit.app/)<br>
 This Streamlit app creates a simple embedding store using FAISS to insert document chunks and perform similarity searches using vector embeddings. It allows you to query over an HR Policy document of Genpact to retrieve the most relevant matches.
 
 ## 🚀 Features
