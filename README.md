@@ -6,7 +6,7 @@ The textual data from the aforementiond PDF was extracted and put into [this fil
 
 ## ▶️ Demo
 <div align="center">
-<video src="" alt="Demo video" width="90%" style="border-radius: 16px;"></video>
+<video src="https://github.com/paridhi3/AI-POC/issues/1#issue-3090107093" alt="Demo video" width="90%" style="border-radius: 16px;"></video>
 </div>
 
 ## 🚀 Features
