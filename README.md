@@ -16,7 +16,7 @@ The textual data from the aforementiond PDF was extracted and put into [this fil
 ✅ Compare user queries against a predefined knowledge base  
 ✅ Streamlit web interface for easy interaction
 
-# 📚 Code Flow: Simple Embedding Search App
+# 📚 How this works
 
 1️⃣ **Start Streamlit app**  
 
