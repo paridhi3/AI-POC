@@ -6,7 +6,7 @@ The textual data from the aforementiond PDF was extracted and put into [this fil
 
 ## ▶️ Demo
 <div align="center">
-<video src="https://github.com/paridhi3/AI-POC/issues/1#issue-3090107093" alt="Demo video" width="90%" style="border-radius: 16px;"></video>
+<video src="https://private-user-images.githubusercontent.com/75247327/447434953-78eb26ef-b613-4f74-9adc-f4c9d218485f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyNDAyNDAsIm5iZiI6MTc0ODIzOTk0MCwicGF0aCI6Ii83NTI0NzMyNy80NDc0MzQ5NTMtNzhlYjI2ZWYtYjYxMy00Zjc0LTlhZGMtZjRjOWQyMTg0ODVmLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI2VDA2MTIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiYmIwNjgyNGZjOWEzN2IyODE0YTJjZTVmZWZjOTQxYmQ0NDY4Nzk0MzNiMjkyN2I2ODM0ZWNkNGY1OWQzMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.T6nOOZXOJyIBwV6I9YZ5b4X-GI3RDLdGIi2BRY0zbTo" alt="Demo video" width="90%" style="border-radius: 16px;"></video>
 </div>
 
 ## 🚀 Features
