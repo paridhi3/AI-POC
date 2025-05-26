@@ -53,6 +53,7 @@ The textual data from the aforementiond PDF was extracted and put into [this fil
 
 9️⃣ **End / wait for next query**
 
+---
 
 ## 📦 Setup
 
